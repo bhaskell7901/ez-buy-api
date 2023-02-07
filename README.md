@@ -1,4 +1,4 @@
-# E-commerce Back End Demo
+# E-commerce Back End Demo - Ez Buy API
 
 Welcome to Team Page Generator!  An App that lets you generator your own Team web page as a manager.
 
